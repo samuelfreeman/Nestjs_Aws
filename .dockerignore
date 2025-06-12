@@ -1,0 +1,11 @@
+node_modules
+test
+.git 
+.gitignore
+.prettierrc
+dist
+Dockerfile
+*.log
+*.md
+.gi
+Dockerfile.prod
